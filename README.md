@@ -10,7 +10,7 @@ A simple starter function. Edit `src/main.js` to get started and create somethin
  
 **Response**
 
-Sample `200` Response:
+Sample `200` Response: 
 
 ```text
 Pongasdf
