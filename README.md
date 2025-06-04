@@ -15,7 +15,7 @@ Sample `200` Response:
 ```textaaaaa
 Pongasdf
 ```
-
+     
 ### GET, POST, PUT, PATCH, DELETE /
 
 - Returns a "Learn More" JSON response.
