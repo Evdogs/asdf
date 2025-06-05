@@ -20,7 +20,7 @@ Pongasdf
  
 - Returns a "Learn More" JSON response.
    
-**Response**
+**Response** 
 
 Sample `200` Response:
 
