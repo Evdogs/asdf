@@ -17,7 +17,7 @@ Pongasdf
 ```
      
 ### GET, POST, PUT, PATCH, DELETE /
- 
+ fasd
 - Returns a "Learn More" JSON response.fusck
    
 **Response** 
